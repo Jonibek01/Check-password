@@ -1,0 +1,14 @@
+.css-pass-input {
+    width: 400px;
+}
+.css-btn {
+    width: 300px;
+    margin-left: 100px;
+    color: #fff;
+    border-radius: 4px;
+}
+.css-error,
+.css-true {
+    width: 400px;
+    text-align: center;
+}
